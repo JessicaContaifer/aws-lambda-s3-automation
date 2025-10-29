@@ -45,10 +45,27 @@ Esse processo mostrou como é possível simplificar tarefas repetitivas e garant
 
 ## 📸 Capturas de tela
 
-As imagens do processo estão organizadas na pasta [`/imagens`](./imagens), incluindo:
-- Configuração do bucket S3  
-- Painel da função Lambda  
-- Stack criado no CloudFormation  
+  ## 🖼️ Capturas de tela do projeto
+
+### 1️⃣ Autenticação Root
+![AWS Root Login](.<img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/627d8549-7370-4d94-bed9-7212392a6f51" />
+)  
+Tela de autenticação mostrando acesso Root na conta AWS utilizada para o desafio.
+
+### 2️⃣ Bucket S3
+![S3 Bucket])  <img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/c9f9a73e-43fb-4c27-97bc-ed7c3d736bd3" />
+
+Bucket criado com sucesso no Amazon S3 para armazenar os arquivos do projeto Lambda.
+
+### 3️⃣ Função Lambda
+![Lambda Config] <img width="2796" height="1290" alt="image" src="https://github.com/user-attachments/assets/652863b3-f1a9-4221-bcd4-ce1dfa98a3b2" />
+ 
+Função Lambda configurada com runtime Node.js 22.x e pacote ZIP.
+
+### 4️⃣ CloudFormation
+<img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/d438e130-e56a-438e-9fcf-068178056f55" />
+
+Painel do CloudFormation utilizado para configurar automações e stacks da AWS.
 
 ---
 
